@@ -6,7 +6,25 @@
     font-family: Parisienne;
 }
 
-
 #main-separator {
     width: 60rem;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
+
+#inline {
+    font-size: 1.5rem;
+    font-family: "Archivo Narrow";
+    color: #5c616b;
+}
+
+#under-development {
+    padding-top: 100px;
+    text-align: center;
+}
+
+#under-development h2 {
+    font-size: 8rem;
+}
+
+
