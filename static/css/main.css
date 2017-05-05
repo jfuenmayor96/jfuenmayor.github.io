@@ -15,7 +15,7 @@
 #inline {
     font-size: 1.5rem;
     font-family: "Archivo Narrow";
-    color: #5c616b;
+    color: rgba(58,65,69,1);
 }
 
 #under-development {
@@ -24,6 +24,39 @@
 
 #under-development h2 {
     font-size: 8rem;
+}
+
+#navbar {
+    font-family: 'Archivo Narrow';
+}
+
+#navbar div {
+    display: inline;
+}
+
+#navbar h3 {
+    font-size: 2rem;
+}
+
+.navbar-nav {
+    justify-content: flex-end;
+}
+
+.navbar-brand img {
+    transform: translateY(-6px);
+}
+
+nav {
+    border-color: black !important;
+    background-color: white;
+}
+
+#top {
+    padding-top: 60px;
+}
+
+.navbar-toggle, .icon-bar {
+    border:1px solid black;
 }
 
 
