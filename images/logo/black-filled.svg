@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="768"
+   width="471.94522"
+   height="643.48651"
    id="svg3272"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   inkscape:export-filename="/home/julio/logo.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="logo2.svg">
+   inkscape:export-filename="/home/julio/portfolio/images/logo/logo-blackfilled.png"
+   inkscape:export-xdpi="4.4756184"
+   inkscape:export-ydpi="4.4756184"
+   sodipodi:docname="black-filled.svg">
   <defs
      id="defs3274" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="346.94873"
-     inkscape:cy="424.44402"
+     inkscape:cx="50.510286"
+     inkscape:cy="350.95403"
      inkscape:document-units="px"
      inkscape:current-layer="g6184"
      showgrid="false"
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-201.34375,364.1749)">
+     transform="translate(-497.78219,313.15138)">
     <path
        style="fill:#000000"
        d=""
