@@ -62,8 +62,10 @@ nav {
     border:1px solid black;
 }
 
-.about {
+#about {
     font-family: 'Ropa Sans';
+    text-align: justify;
 }
+
 
 
