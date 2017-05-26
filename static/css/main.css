@@ -62,10 +62,26 @@ nav {
     border:1px solid black;
 }
 
-#about {
+.content {
     font-family: 'Ropa Sans';
     text-align: justify;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
+
+#projects {
+    float: right;
+}
+
+#projects h2 {
+    text-align: right;
+}
+
+
+
+
+
 
 
 
