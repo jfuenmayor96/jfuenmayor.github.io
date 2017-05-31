@@ -116,14 +116,30 @@
         </section>
         
         <!-- Contact section -->
-        <section>
+        <form id='gform' method ='post' action="https://script.google.com/macros/s/AKfycbzCkbSOfkw0SwPBjpsNT2kkKKJor8b0OhxCWvpwaMsPgKUCu4Us/exec">
             
-        </section>
-        <!-- Under development message
-        <section id='under-development'>
-            <h2 style="font-family: Parisienne; text-align: center;">Under development</h2>
-        </section>
-        -->
+
+            <fieldset>
+            <label for="text">Name: </label>
+            <input id="text" name="text" value="Peter Quill" />
+            </fieldset>
+
+            <fieldset>
+            <label for="text-area">Message: </label>
+            <textarea id="text-area" name="text-area" rows="10">Leave your message here</textarea>
+            </fieldset>
+
+            <fieldset>
+            <label for="email">Your e-mail address:</label>
+            <input id="email" name="email" type="email" required value="starlord at gmail dot com" />
+            <span id="email-invalid" style="visibility:hidden">
+                Must be a valid email address</span>
+            </fieldset>
+
+            <button type="submit" value="submit">Submit</button>
+            <button type="reset" value="reset">Reset</button>
+            <br><br><br><br><br>
+        </form>
     </body>
 </html>
 
