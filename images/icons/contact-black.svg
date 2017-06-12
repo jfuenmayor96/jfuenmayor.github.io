@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="18"
+   id="svg3256"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="contact-black.svg"
+   inkscape:export-filename="/home/julio/portfolio/images/icons/contact-black.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs3258" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="15.681629"
+     inkscape:cy="9.9546006"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3261">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-330.52848,-415.03709)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 333.5371,431.53444 c -0.15211,0 -0.29038,-0.0439 -0.42928,-0.0863 l 6.52252,-7.44444 2.44319,2.09067 c 0.14007,0.12212 0.31492,0.18199 0.48932,0.18199 0.17395,0 0.3484,-0.0599 0.48886,-0.18199 l 2.44285,-2.09067 6.5225,7.44444 c -0.13816,0.0419 -0.27654,0.0863 -0.42892,0.0863 l -18.05104,0 z m -1.44518,-1.20851 c -0.0199,-0.0986 -0.0594,-0.18953 -0.0594,-0.29372 l 0,-12.01937 c 0,-0.15483 0.0446,-0.2958 0.0891,-0.43687 l 6.36599,5.44949 -6.39567,7.30047 z m 19.49622,-13.81486 c 0.0999,0 0.18748,0.0371 0.28187,0.0569 l -9.30716,7.96792 -9.30785,-7.96792 c 0.0942,-0.0184 0.18213,-0.0569 0.2821,-0.0569 l 18.05104,0 z m -4.95196,6.51525 6.36846,-5.45035 c 0.0438,0.14107 0.0876,0.28204 0.0876,0.43687 l 0,12.01937 c 0,0.10419 -0.0389,0.19659 -0.0603,0.29488 l -6.39573,-7.30077 z m 4.95196,-8.01781 -18.05104,0 c -1.66174,0 -3.00862,1.34516 -3.00862,3.00433 l 0,12.01937 c 0,1.65968 1.34688,3.00488 3.00862,3.00488 l 18.05104,0 c 1.6614,0 3.00863,-1.3452 3.00863,-3.00488 l 0,-12.01937 c 0,-1.65917 -1.34723,-3.00433 -3.00863,-3.00433"
+       style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3056"
+       inkscape:export-filename="/home/julio/portfolio/images/icons/contact-black.png"
+       inkscape:export-xdpi="50.551636"
+       inkscape:export-ydpi="50.551636" />
+  </g>
+</svg>
